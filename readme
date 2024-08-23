@@ -1,0 +1,46 @@
+pip install paddlepaddle
+pip install protobuf==3.19.0
+
+paddleocr              2.7.3
+paddlepaddle           2.6.1
+
+
+paddleocr              2.7.3
+paddlepaddle           2.6.1
+
+
+
+
+~/.paddleocr/whl/rec/latin/latin_PP-OCRv3_rec_infer
+
+
+
+python3 tools/train.py -c ./configs/rec/multi_language/rec_latin_lite_train.yml -o Global.checkpoints=~/.paddleocr/whl/rec/latin/latin_PP-OCRv3_rec_infer
+
+
+
+
+
+
+"/home/ocr/ocr/psad/venv/lib/python3.10/site-packages/paddle/distributed/parallel.py", line 781, in device_id
+
+
+
+home/ocr/ocr/psad/ocr/train_data/train
+
+
+/home/ocr/ocr/psad/ocr/train_data/train/10001.jpg
+
+
+
+
+
+python3 tools/train.py -c ./configs/rec/multi_language/rec_latin_lite_train.yml -o Global.checkpoints=~/.paddleocr/whl/rec/latin/latin_PP-OCRv3_rec_infer
+
+
+
+
+
+apt install nvidia-cuda-toolkit
+
+

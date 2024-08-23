@@ -1,0 +1,17 @@
+/home/ocr/ocr/psad/train/10003.jpg, CÁC ĐẠI HỌC KHÁC CÓ CAMPUS THỨ HAI Ở SYDNEY BAO GỒM ĐẠI HỌC NOTRE DAME ÚC VÀ ĐẠI HỌC WOLLONGONG
+/home/ocr/ocr/psad/train/10008.jpg, cac Dai hoc si co the hanh dong nhu cau noi trung gian giua hoang de va quan vien cac bo
+/home/ocr/ocr/psad/train/10007.jpg, "CÁC ""ĐẠI HỌC"" NÀY CÓ MÔ HÌNH GẦN GIỐNG VỚI ""VIỆN ĐẠI HỌC"";"
+/home/ocr/ocr/psad/train/10005.jpg, Cac dai hoc lon khac tai Israel la Dai hoc Bar-Ilan
+/home/ocr/ocr/psad/train/10009.jpg, các đại học tại israel cung cấp khóa trình bằng tiếng anh cho nhiều môn học khác nhau
+/home/ocr/ocr/psad/train/0.jpg, BRITAIN AND FRANCE AT THE BIRTH OF AMERICA: THE EUROPEAN POWERS AND THE PEACE NEGOTIATIONS OF 1782–1783
+/home/ocr/ocr/psad/train/10006.jpg, Các đại học lớn là Dại học Rajiv Gandhi (trước gọi là Đại học Arunachal)
+/home/ocr/ocr/psad/train/10010.jpg, CÁC ĐẠI HỌC VÀ CAO ĐẲNG KHÁC NHẤN MẠNH CHƯƠNG TRÌNH VÀO KHOA HỌC VÀ KỸ THUẬT
+/home/ocr/ocr/psad/train/100.jpg, BRITISH POLITICAL HISTORY LINKS FROM BUBL
+/home/ocr/ocr/psad/train/10002.jpg, các đại học danh tiếng là Đại học quốc lập Đài Loan
+/home/ocr/ocr/psad/train/10.jpg, Britain'S Royal Families: The Complete Genealogy
+/home/ocr/ocr/psad/train/10000.jpg, các đại học
+/home/ocr/ocr/psad/train/1.jpg, Britain and the Celtic Iron Age
+/home/ocr/ocr/psad/train/1000.jpg, BỨC XẠ VỚI CƯỜNG ĐỘ MẠNH TỪ TRUNG TÂM THIÊN HÀ CŨNG TÁC ĐỘNG MẠNH ĐẾN SỰ PHÁT TRIỂN CỦA CÁC TỔ CHỨC SỐNG PHỨC TẠP
+/home/ocr/ocr/psad/train/10004.jpg, Các đại học khác nằm tại Kuala Lumpur gồm Đại học Hồi giáo Quốc tế Malaysia (IIUM)
+/home/ocr/ocr/psad/train/1001.jpg, bức xạ vũ trụ này được ghi nhận bằng các buồng ion hóa và sau này là buồng mây wilson
+/home/ocr/ocr/psad/train/10001.jpg, "các ""đại học"" bao gồm các ""đại học vùng"" và các ""đại học quốc gia"""

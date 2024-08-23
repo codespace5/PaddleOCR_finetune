@@ -1,0 +1,256 @@
+/home/ocr/ocr/psad/ocr/train_data/train/51.jpg, XÃ MỸ KHÁNH
+/home/ocr/ocr/psad/ocr/train_data/train/255.jpg, Xã Phú Xuân
+/home/ocr/ocr/psad/ocr/train_data/train/191.jpg, PHƯỜNG LONG PHÚ
+/home/ocr/ocr/psad/ocr/train_data/train/224.jpg, long hoà, phú tân, an giang
+/home/ocr/ocr/psad/ocr/train_data/train/165.jpg, Phuong Long Chau, Thi xa Tan Chau, Tinh An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/2.jpg, Long Xuyên
+/home/ocr/ocr/psad/ocr/train_data/train/34.jpg, Mỹ Quý
+/home/ocr/ocr/psad/ocr/train_data/train/210.jpg, phú tân
+/home/ocr/ocr/psad/ocr/train_data/train/162.jpg, Long Châu
+/home/ocr/ocr/psad/ocr/train_data/train/120.jpg, Phú Hữu, An Phú, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/240.jpg, PHÚ THẠNH, PHÚ TÂN, AN GIANG
+/home/ocr/ocr/psad/ocr/train_data/train/138.jpg, vĩnh trường
+/home/ocr/ocr/psad/ocr/train_data/train/219.jpg, thị trấn chợ vàm
+/home/ocr/ocr/psad/ocr/train_data/train/137.jpg, xã vĩnh hậu, huyện an phú, tỉnh an giang
+/home/ocr/ocr/psad/ocr/train_data/train/201.jpg, XÃ PHÚ VĨNH, THỊ XÃ TÂN CHÂU, TỈNH AN GIANG
+/home/ocr/ocr/psad/ocr/train_data/train/6.jpg, Mỹ Bình
+/home/ocr/ocr/psad/ocr/train_data/train/115.jpg, xã nhơn hội
+/home/ocr/ocr/psad/ocr/train_data/train/19.jpg, phường mỹ xuyên
+/home/ocr/ocr/psad/ocr/train_data/train/59.jpg, Thanh pho Chau Doc
+/home/ocr/ocr/psad/ocr/train_data/train/26.jpg, BÌNH KHÁNH
+/home/ocr/ocr/psad/ocr/train_data/train/246.jpg, Phú Thành
+/home/ocr/ocr/psad/ocr/train_data/train/161.jpg, PHƯỜNG LONG HƯNG, THỊ XÃ TÂN CHÂU, TỈNH AN GIANG
+/home/ocr/ocr/psad/ocr/train_data/train/254.jpg, PHÚ XUÂN
+/home/ocr/ocr/psad/ocr/train_data/train/222.jpg, Long Hoà
+/home/ocr/ocr/psad/ocr/train_data/train/124.jpg, phú hội, an phú, an giang
+/home/ocr/ocr/psad/ocr/train_data/train/211.jpg, Huyện Phú Tân
+/home/ocr/ocr/psad/ocr/train_data/train/47.jpg, phường mỹ hòa
+/home/ocr/ocr/psad/ocr/train_data/train/35.jpg, phường mỹ quý
+/home/ocr/ocr/psad/ocr/train_data/train/130.jpg, VĨNH LỘC
+/home/ocr/ocr/psad/ocr/train_data/train/0.jpg, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/190.jpg, LONG PHÚ
+/home/ocr/ocr/psad/ocr/train_data/train/94.jpg, an phú
+/home/ocr/ocr/psad/ocr/train_data/train/54.jpg, MỸ HOÀ HƯNG
+/home/ocr/ocr/psad/ocr/train_data/train/181.jpg, XÃ TÂN THẠNH, THỊ XÃ TÂN CHÂU, TỈNH AN GIANG
+/home/ocr/ocr/psad/ocr/train_data/train/228.jpg, Phu Long, Phu Tan, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/141.jpg, Xã Vĩnh Trường, Huyện An Phú, Tỉnh An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/103.jpg, thị trấn long bình
+/home/ocr/ocr/psad/ocr/train_data/train/193.jpg, Phường Long Phú, Thị xã Tân Châu, Tỉnh An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/186.jpg, Long An
+/home/ocr/ocr/psad/ocr/train_data/train/65.jpg, phường châu phú b, thành phố châu đốc, tỉnh an giang
+/home/ocr/ocr/psad/ocr/train_data/train/177.jpg, xã vĩnh hòa, thị xã tân châu, tỉnh an giang
+/home/ocr/ocr/psad/ocr/train_data/train/101.jpg, Xã Khánh An, Huyện An Phú, Tỉnh An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/12.jpg, My Long, Long Xuyen, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/142.jpg, Vinh Hoi Dong
+/home/ocr/ocr/psad/ocr/train_data/train/175.jpg, Xa Vinh Hoa
+/home/ocr/ocr/psad/ocr/train_data/train/197.jpg, Xa Chau Phong, Thi xa Tan Chau, Tinh An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/37.jpg, PHƯỜNG MỸ QUÝ, THÀNH PHỐ LONG XUYÊN, TỈNH AN GIANG
+/home/ocr/ocr/psad/ocr/train_data/train/13.jpg, phường mỹ long, thành phố long xuyên, tỉnh an giang
+/home/ocr/ocr/psad/ocr/train_data/train/206.jpg, Long Sơn
+/home/ocr/ocr/psad/ocr/train_data/train/160.jpg, LONG HƯNG, TÂN CHÂU, AN GIANG
+/home/ocr/ocr/psad/ocr/train_data/train/87.jpg, Xa Vinh Chau
+/home/ocr/ocr/psad/ocr/train_data/train/80.jpg, Vĩnh Ngươn, Châu Đốc, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/8.jpg, Mỹ Bình, Long Xuyên, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/145.jpg, XÃ VĨNH HỘI ĐÔNG, HUYỆN AN PHÚ, TỈNH AN GIANG
+/home/ocr/ocr/psad/ocr/train_data/train/21.jpg, Phuong My Xuyen, Thanh pho Long Xuyen, Tinh An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/63.jpg, Phường Châu Phú B
+/home/ocr/ocr/psad/ocr/train_data/train/187.jpg, Xã Long An
+/home/ocr/ocr/psad/ocr/train_data/train/73.jpg, Phường Vĩnh Mỹ, Thành phố Châu Đốc, Tỉnh An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/24.jpg, bình đức, long xuyên, an giang
+/home/ocr/ocr/psad/ocr/train_data/train/95.jpg, Thị Trấn An Phú
+/home/ocr/ocr/psad/ocr/train_data/train/77.jpg, PHƯỜNG NÚI SAM, THÀNH PHỐ CHÂU ĐỐC, TỈNH AN GIANG
+/home/ocr/ocr/psad/ocr/train_data/train/139.jpg, xã vĩnh trường
+/home/ocr/ocr/psad/ocr/train_data/train/140.jpg, vĩnh trường, an phú, an giang
+/home/ocr/ocr/psad/ocr/train_data/train/242.jpg, Hoà Lạc
+/home/ocr/ocr/psad/ocr/train_data/train/125.jpg, Xã Phú Hội, Huyện An Phú, Tỉnh An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/127.jpg, Xã Phước Hưng
+/home/ocr/ocr/psad/ocr/train_data/train/46.jpg, Mỹ Hòa
+/home/ocr/ocr/psad/ocr/train_data/train/44.jpg, Mỹ Thạnh, Long Xuyên, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/86.jpg, VĨNH CHÂU
+/home/ocr/ocr/psad/ocr/train_data/train/52.jpg, Mỹ Khánh, Long Xuyên, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/15.jpg, PHƯỜNG ĐÔNG XUYÊN
+/home/ocr/ocr/psad/ocr/train_data/train/184.jpg, Tân An, Tân Châu, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/131.jpg, XÃ VĨNH LỘC
+/home/ocr/ocr/psad/ocr/train_data/train/100.jpg, KHÁNH AN, AN PHÚ, AN GIANG
+/home/ocr/ocr/psad/ocr/train_data/train/159.jpg, Phuong Long Hung
+/home/ocr/ocr/psad/ocr/train_data/train/223.jpg, Xã Long Hoà
+/home/ocr/ocr/psad/ocr/train_data/train/105.jpg, Thị Trấn Long Bình, Huyện An Phú, Tỉnh An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/192.jpg, Long Phú, Tân Châu, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/185.jpg, Xã Tân An, Thị Xã Tân Châu, Tỉnh An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/154.jpg, Long Thạnh
+/home/ocr/ocr/psad/ocr/train_data/train/16.jpg, Đông Xuyên, Long Xuyên, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/109.jpg, Xã Khánh Bình, Huyện An Phú, Tỉnh An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/92.jpg, An Phú, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/81.jpg, Phuong Vinh Nguon, Thanh pho Chau Doc, Tinh An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/238.jpg, Phú Thạnh
+/home/ocr/ocr/psad/ocr/train_data/train/171.jpg, Xã Vĩnh Xương
+/home/ocr/ocr/psad/ocr/train_data/train/68.jpg, Châu Phú A, Châu Đốc, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/215.jpg, thị trấn phú mỹ
+/home/ocr/ocr/psad/ocr/train_data/train/112.jpg, Quốc Thái, An Phú, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/32.jpg, Mỹ Phước, Long Xuyên, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/202.jpg, lê chánh
+/home/ocr/ocr/psad/ocr/train_data/train/57.jpg, XÃ MỸ HOÀ HƯNG, THÀNH PHỐ LONG XUYÊN, TỈNH AN GIANG
+/home/ocr/ocr/psad/ocr/train_data/train/182.jpg, tân an
+/home/ocr/ocr/psad/ocr/train_data/train/134.jpg, vĩnh hậu
+/home/ocr/ocr/psad/ocr/train_data/train/243.jpg, xã hoà lạc
+/home/ocr/ocr/psad/ocr/train_data/train/41.jpg, Phường Mỹ Thới, Thành phố Long Xuyên, Tỉnh An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/4.jpg, LONG XUYÊN, AN GIANG
+/home/ocr/ocr/psad/ocr/train_data/train/195.jpg, xã châu phong
+/home/ocr/ocr/psad/ocr/train_data/train/226.jpg, Phu Long
+/home/ocr/ocr/psad/ocr/train_data/train/90.jpg, AN PHÚ
+/home/ocr/ocr/psad/ocr/train_data/train/167.jpg, Xã Phú Lộc
+/home/ocr/ocr/psad/ocr/train_data/train/163.jpg, Phường Long Châu
+/home/ocr/ocr/psad/ocr/train_data/train/5.jpg, Thanh pho Long Xuyen, Tinh An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/225.jpg, xã long hoà, huyện phú tân, tỉnh an giang
+/home/ocr/ocr/psad/ocr/train_data/train/146.jpg, Đa Phước
+/home/ocr/ocr/psad/ocr/train_data/train/149.jpg, Xa Da Phuoc, Huyen An Phu, Tinh An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/128.jpg, phước hưng, an phú, an giang
+/home/ocr/ocr/psad/ocr/train_data/train/155.jpg, Phường Long Thạnh
+/home/ocr/ocr/psad/ocr/train_data/train/221.jpg, Thị trấn Chợ Vàm, Huyện Phú Tân, Tỉnh An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/99.jpg, XÃ KHÁNH AN
+/home/ocr/ocr/psad/ocr/train_data/train/188.jpg, Long An, Tân Châu, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/113.jpg, xã quốc thái, huyện an phú, tỉnh an giang
+/home/ocr/ocr/psad/ocr/train_data/train/245.jpg, Xã Hoà Lạc, Huyện Phú Tân, Tỉnh An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/118.jpg, PHÚ HỮU
+/home/ocr/ocr/psad/ocr/train_data/train/17.jpg, PHƯỜNG ĐÔNG XUYÊN, THÀNH PHỐ LONG XUYÊN, TỈNH AN GIANG
+/home/ocr/ocr/psad/ocr/train_data/train/212.jpg, Phu Tan, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/178.jpg, Tan Thanh
+/home/ocr/ocr/psad/ocr/train_data/train/143.jpg, Xa Vinh Hoi Dong
+/home/ocr/ocr/psad/ocr/train_data/train/9.jpg, Phường Mỹ Bình, Thành Phố Long Xuyên, Tỉnh An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/189.jpg, Xa Long An, Thi xa Tan Chau, Tinh An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/180.jpg, Tân Thạnh, Tân Châu, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/200.jpg, phú vĩnh, tân châu, an giang
+/home/ocr/ocr/psad/ocr/train_data/train/248.jpg, Phú Thành, Phú Tân, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/22.jpg, Binh Duc
+/home/ocr/ocr/psad/ocr/train_data/train/83.jpg, Xã Vĩnh Tế
+/home/ocr/ocr/psad/ocr/train_data/train/98.jpg, KHÁNH AN
+/home/ocr/ocr/psad/ocr/train_data/train/18.jpg, Mỹ Xuyên
+/home/ocr/ocr/psad/ocr/train_data/train/117.jpg, xã nhơn hội, huyện an phú, tỉnh an giang
+/home/ocr/ocr/psad/ocr/train_data/train/3.jpg, Thanh pho Long Xuyen
+/home/ocr/ocr/psad/ocr/train_data/train/20.jpg, MỸ XUYÊN, LONG XUYÊN, AN GIANG
+/home/ocr/ocr/psad/ocr/train_data/train/50.jpg, Mỹ Khánh
+/home/ocr/ocr/psad/ocr/train_data/train/251.jpg, XÃ PHÚ AN
+/home/ocr/ocr/psad/ocr/train_data/train/107.jpg, xã khánh bình
+/home/ocr/ocr/psad/ocr/train_data/train/106.jpg, Khánh Bình
+/home/ocr/ocr/psad/ocr/train_data/train/164.jpg, long châu, tân châu, an giang
+/home/ocr/ocr/psad/ocr/train_data/train/129.jpg, Xa Phuoc Hung, Huyen An Phu, Tinh An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/108.jpg, Khanh Binh, An Phu, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/169.jpg, Xã Phú Lộc, Thị xã Tân Châu, Tỉnh An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/203.jpg, Xã Lê Chánh
+/home/ocr/ocr/psad/ocr/train_data/train/229.jpg, Xã Phú Long, Huyện Phú Tân, Tỉnh An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/23.jpg, PHƯỜNG BÌNH ĐỨC
+/home/ocr/ocr/psad/ocr/train_data/train/250.jpg, Phu An
+/home/ocr/ocr/psad/ocr/train_data/train/147.jpg, Xã Đa Phước
+/home/ocr/ocr/psad/ocr/train_data/train/231.jpg, XÃ PHÚ LÂM
+/home/ocr/ocr/psad/ocr/train_data/train/234.jpg, Phú Hiệp
+/home/ocr/ocr/psad/ocr/train_data/train/252.jpg, Phú An, Phú Tân, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/38.jpg, Mỹ Thới
+/home/ocr/ocr/psad/ocr/train_data/train/61.jpg, Thành Phố Châu Đốc, Tỉnh An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/45.jpg, Phường Mỹ Thạnh, Thành phố Long Xuyên, Tỉnh An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/174.jpg, VĨNH HÒA
+/home/ocr/ocr/psad/ocr/train_data/train/241.jpg, Xã Phú Thạnh, Huyện Phú Tân, Tỉnh An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/122.jpg, PHÚ HỘI
+/home/ocr/ocr/psad/ocr/train_data/train/157.jpg, PHƯỜNG LONG THẠNH, THỊ XÃ TÂN CHÂU, TỈNH AN GIANG
+/home/ocr/ocr/psad/ocr/train_data/train/10.jpg, Mỹ Long
+/home/ocr/ocr/psad/ocr/train_data/train/48.jpg, Mỹ Hòa, Long Xuyên, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/56.jpg, mỹ hoà hưng, long xuyên, an giang
+/home/ocr/ocr/psad/ocr/train_data/train/126.jpg, phước hưng
+/home/ocr/ocr/psad/ocr/train_data/train/27.jpg, PHƯỜNG BÌNH KHÁNH
+/home/ocr/ocr/psad/ocr/train_data/train/84.jpg, vĩnh tế, châu đốc, an giang
+/home/ocr/ocr/psad/ocr/train_data/train/213.jpg, huyện phú tân, tỉnh an giang
+/home/ocr/ocr/psad/ocr/train_data/train/205.jpg, xã lê chánh, thị xã tân châu, tỉnh an giang
+/home/ocr/ocr/psad/ocr/train_data/train/91.jpg, huyện an phú
+/home/ocr/ocr/psad/ocr/train_data/train/88.jpg, Vĩnh Châu, Châu Đốc, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/119.jpg, xã phú hữu
+/home/ocr/ocr/psad/ocr/train_data/train/148.jpg, Đa Phước, An Phú, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/62.jpg, Châu Phú B
+/home/ocr/ocr/psad/ocr/train_data/train/244.jpg, Hoa Lac, Phu Tan, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/176.jpg, Vĩnh Hòa, Tân Châu, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/132.jpg, vĩnh lộc, an phú, an giang
+/home/ocr/ocr/psad/ocr/train_data/train/64.jpg, Châu Phú B, Châu Đốc, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/49.jpg, Phường Mỹ Hòa, Thành Phố Long Xuyên, Tỉnh An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/29.jpg, PHƯỜNG BÌNH KHÁNH, THÀNH PHỐ LONG XUYÊN, TỈNH AN GIANG
+/home/ocr/ocr/psad/ocr/train_data/train/196.jpg, Châu Phong, Tân Châu, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/208.jpg, Long Son, Tan Chau, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/43.jpg, phường mỹ thạnh
+/home/ocr/ocr/psad/ocr/train_data/train/25.jpg, Phường Bình Đức, Thành phố Long Xuyên, Tỉnh An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/116.jpg, Nhơn Hội, An Phú, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/67.jpg, phường châu phú a
+/home/ocr/ocr/psad/ocr/train_data/train/30.jpg, mỹ phước
+/home/ocr/ocr/psad/ocr/train_data/train/204.jpg, Lê Chánh, Tân Châu, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/121.jpg, Xã Phú Hữu, Huyện An Phú, Tỉnh An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/28.jpg, bình khánh, long xuyên, an giang
+/home/ocr/ocr/psad/ocr/train_data/train/102.jpg, long bình
+/home/ocr/ocr/psad/ocr/train_data/train/69.jpg, Phường Châu Phú A, Thành Phố Châu Đốc, Tỉnh An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/249.jpg, XÃ PHÚ THÀNH, HUYỆN PHÚ TÂN, TỈNH AN GIANG
+/home/ocr/ocr/psad/ocr/train_data/train/230.jpg, Phu Lam
+/home/ocr/ocr/psad/ocr/train_data/train/31.jpg, Phường Mỹ Phước
+/home/ocr/ocr/psad/ocr/train_data/train/153.jpg, thị xã tân châu, tỉnh an giang
+/home/ocr/ocr/psad/ocr/train_data/train/1.jpg, Tỉnh An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/152.jpg, Tân Châu, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/173.jpg, Xã Vĩnh Xương, Thị xã Tân Châu, Tỉnh An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/232.jpg, Phu Lam, Phu Tan, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/236.jpg, Phú Hiệp, Phú Tân, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/14.jpg, Đông Xuyên
+/home/ocr/ocr/psad/ocr/train_data/train/166.jpg, PHÚ LỘC
+/home/ocr/ocr/psad/ocr/train_data/train/144.jpg, Vĩnh Hội Đông, An Phú, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/36.jpg, Mỹ Quý, Long Xuyên, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/198.jpg, PHÚ VĨNH
+/home/ocr/ocr/psad/ocr/train_data/train/151.jpg, Thi xa Tan Chau
+/home/ocr/ocr/psad/ocr/train_data/train/136.jpg, Vinh Hau, An Phu, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/42.jpg, mỹ thạnh
+/home/ocr/ocr/psad/ocr/train_data/train/239.jpg, Xã Phú Thạnh
+/home/ocr/ocr/psad/ocr/train_data/train/217.jpg, Thi tran Phu My, Huyen Phu Tan, Tinh An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/78.jpg, Vĩnh Ngươn
+/home/ocr/ocr/psad/ocr/train_data/train/11.jpg, phường mỹ long
+/home/ocr/ocr/psad/ocr/train_data/train/158.jpg, Long Hưng
+/home/ocr/ocr/psad/ocr/train_data/train/58.jpg, Chau Doc
+/home/ocr/ocr/psad/ocr/train_data/train/237.jpg, Xã Phú Hiệp, Huyện Phú Tân, Tỉnh An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/209.jpg, Phường Long Sơn, Thị Xã Tân Châu, Tỉnh An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/89.jpg, XÃ VĨNH CHÂU, THÀNH PHỐ CHÂU ĐỐC, TỈNH AN GIANG
+/home/ocr/ocr/psad/ocr/train_data/train/123.jpg, Xa Phu Hoi
+/home/ocr/ocr/psad/ocr/train_data/train/183.jpg, xã tân an
+/home/ocr/ocr/psad/ocr/train_data/train/82.jpg, VĨNH TẾ
+/home/ocr/ocr/psad/ocr/train_data/train/233.jpg, xã phú lâm, huyện phú tân, tỉnh an giang
+/home/ocr/ocr/psad/ocr/train_data/train/66.jpg, CHÂU PHÚ A
+/home/ocr/ocr/psad/ocr/train_data/train/133.jpg, Xã Vĩnh Lộc, Huyện An Phú, Tỉnh An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/72.jpg, Vĩnh Mỹ, Châu Đốc, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/168.jpg, Phú Lộc, Tân Châu, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/235.jpg, Xã Phú Hiệp
+/home/ocr/ocr/psad/ocr/train_data/train/75.jpg, Phường Núi Sam
+/home/ocr/ocr/psad/ocr/train_data/train/96.jpg, An Phú, An Phú, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/76.jpg, Núi Sam, Châu Đốc, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/194.jpg, Chau Phong
+/home/ocr/ocr/psad/ocr/train_data/train/172.jpg, Vĩnh Xương, Tân Châu, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/70.jpg, Vinh My
+/home/ocr/ocr/psad/ocr/train_data/train/7.jpg, PHƯỜNG MỸ BÌNH
+/home/ocr/ocr/psad/ocr/train_data/train/216.jpg, phú mỹ, phú tân, an giang
+/home/ocr/ocr/psad/ocr/train_data/train/227.jpg, XÃ PHÚ LONG
+/home/ocr/ocr/psad/ocr/train_data/train/220.jpg, Chợ Vàm, Phú Tân, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/207.jpg, PHƯỜNG LONG SƠN
+/home/ocr/ocr/psad/ocr/train_data/train/253.jpg, Xã Phú An, Huyện Phú Tân, Tỉnh An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/214.jpg, phú mỹ
+/home/ocr/ocr/psad/ocr/train_data/train/39.jpg, Phuong My Thoi
+/home/ocr/ocr/psad/ocr/train_data/train/111.jpg, XÃ QUỐC THÁI
+/home/ocr/ocr/psad/ocr/train_data/train/199.jpg, Xã Phú Vĩnh
+/home/ocr/ocr/psad/ocr/train_data/train/60.jpg, Châu Đốc, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/79.jpg, PHƯỜNG VĨNH NGƯƠN
+/home/ocr/ocr/psad/ocr/train_data/train/150.jpg, Tân Châu
+/home/ocr/ocr/psad/ocr/train_data/train/40.jpg, Mỹ Thới, Long Xuyên, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/104.jpg, LONG BÌNH, AN PHÚ, AN GIANG
+/home/ocr/ocr/psad/ocr/train_data/train/156.jpg, Long Thanh, Tan Chau, An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/170.jpg, Vinh Xuong
+/home/ocr/ocr/psad/ocr/train_data/train/247.jpg, Xa Phu Thanh
+/home/ocr/ocr/psad/ocr/train_data/train/110.jpg, quốc thái
+/home/ocr/ocr/psad/ocr/train_data/train/85.jpg, xã vĩnh tế, thành phố châu đốc, tỉnh an giang
+/home/ocr/ocr/psad/ocr/train_data/train/135.jpg, Xã Vĩnh Hậu
+/home/ocr/ocr/psad/ocr/train_data/train/93.jpg, Huyện An Phú, Tỉnh An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/53.jpg, Xã Mỹ Khánh, Thành Phố Long Xuyên, Tỉnh An Giang
+/home/ocr/ocr/psad/ocr/train_data/train/97.jpg, thị trấn an phú, huyện an phú, tỉnh an giang
+/home/ocr/ocr/psad/ocr/train_data/train/33.jpg, PHƯỜNG MỸ PHƯỚC, THÀNH PHỐ LONG XUYÊN, TỈNH AN GIANG
+/home/ocr/ocr/psad/ocr/train_data/train/179.jpg, XÃ TÂN THẠNH
+/home/ocr/ocr/psad/ocr/train_data/train/218.jpg, Chợ Vàm
+/home/ocr/ocr/psad/ocr/train_data/train/71.jpg, Phường Vĩnh Mỹ
+/home/ocr/ocr/psad/ocr/train_data/train/74.jpg, NÚI SAM
+/home/ocr/ocr/psad/ocr/train_data/train/114.jpg, Nhơn Hội
+/home/ocr/ocr/psad/ocr/train_data/train/55.jpg, Xã Mỹ Hoà Hưng
